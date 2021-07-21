@@ -1,5 +1,7 @@
 # [Homepage](https://danggoodcode.com/startpage)
 
+**Note:** This is my fork of [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage). The original readme follows.
+
 ![homepage](https://i.redd.it/cbnzq36zj3601.gif)
 
 ## Customization

@@ -3,7 +3,7 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
+      { name: "Inbox", url: "https://mail.google.com" },
       { name: "GitHub", url: "https://github.com" },
       { name: "Drive", url: "https://drive.google.com" },
     ],
@@ -12,27 +12,14 @@ const bookmarks = [
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
+      { name: "Spotify", url: "https://open.spotify.com/"},
+      { name: "Twitch", url: "https://twitch.tv"},
     ],
   },
   {
     title: "Reddit",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
-      {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
-      },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
-      },
+      { name: "/r/haskell", url: "https://reddit.com/r/haskell" },
       { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
       { name: "/r/news", url: "https://reddit.com/r/news" },
     ],
@@ -40,8 +27,17 @@ const bookmarks = [
   {
     title: "Social",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
+      { name: "Whatsapp", url: "https://web.whatsapp.com" },
+      { name: "Messenger", url: "https://messenger.com" },
       { name: "Facebook", url: "https://facebook.com" },
     ],
+  },
+  {
+      title: "Misc",
+      links: [
+          {name: "Chess.com", url: "https://chess.com/"},
+          {name: "Lichess", url: "https://lichess.org/"},
+          {name: "MyAnimeList", url: "https://myanimelist.net"},
+        ],
   },
 ];
